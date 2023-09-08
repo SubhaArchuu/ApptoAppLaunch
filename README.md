@@ -1,5 +1,5 @@
 # ApptoAppLaunch
- Launch an application from another application
+ Launch an application from another application - kotlin
 
  step 1:  give the destination package name in first app 
           ->add package name //eg: com.example.openapp.MainActivity this is my DESTINATION package
